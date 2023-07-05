@@ -1,2 +1,2 @@
 # Automotive_Trends
-Machine Learning Project on Automotive Trends
+Machine Learning Project on Damaged Cars
